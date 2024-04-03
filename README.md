@@ -4,6 +4,8 @@ A list of annotated links so that you can report your ideas, issues and feedback
 
 If you need *help* on using SQL Server or Azure SQL make sure to check out the [SQL Server help and feedback](https://learn.microsoft.com/sql/sql-server/sql-server-get-help) page.
 
+## Products
+
 **SQL Server** 
 
 Use the [feedback.azure.com](
@@ -18,13 +20,7 @@ https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0
 
 Documentation is all managed on GitHub. Read here how to provide feedback or how to contribute: https://learn.microsoft.com/sql/sql-server/sql-server-get-help#sql-server-documentation
 
-**Azure Function Bindings**
-
-Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/azure-functions-sql-extension
-
-**Data API builder**
-
-Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/data-api-builder
+## Tools
 
 **SQLCMD**
 
@@ -43,6 +39,17 @@ https://github.com/Microsoft/vscode-mssql
 **SQL Server Management Studio**
 
 Report ideas using the same feedback website used for Azure SQL and SQL Server: https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0
+
+## Libraries
+
+**Azure Function Bindings**
+
+Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/azure-functions-sql-extension
+
+**Data API builder**
+
+Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/data-api-builder
+
 
 ## Contributing
 
