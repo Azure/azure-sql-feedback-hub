@@ -1,14 +1,48 @@
-# Project
+# Azure SQL Feedback Hub
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+A list of annotated links so that you can report your ideas, issues and feedback easily and directly to the Product Group, using the most correct  resource.
 
-As the maintainer of this project, please make a few updates:
+If you need *help* on using SQL Server or Azure SQL make sure to check out the [SQL Server help and feedback](https://learn.microsoft.com/sql/sql-server/sql-server-get-help) page.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+**SQL Server** 
+
+Use the [feedback.azure.com](
+https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0) website.
+
+**Azure SQL** 
+
+Just like for SQL Server, use the [feedback.azure.com](
+https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0) website.
+
+**Documentation** 
+
+Documentation is all managed on GitHub. Read here how to provide feedback or how to contribute: https://learn.microsoft.com/sql/sql-server/sql-server-get-help#sql-server-documentation
+
+**Azure Function Bindings**
+
+Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/azure-functions-sql-extension
+
+**Data API builder**
+
+Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/data-api-builder
+
+**SQLCMD**
+
+Report ideas, feedback or issues via the GitHub repo: https://github.com/microsoft/go-sqlcmd
+
+**Azure Data Studio**
+
+Report ideas, feedback or issues via the GitHub repo:
+https://github.com/microsoft/azuredatastudio
+
+**Visual Studio Code MSSQL Extension**
+
+Report ideas, feedback or issues via the GitHub repo:
+https://github.com/Microsoft/vscode-mssql
+
+**SQL Server Management Studio**
+
+Report ideas using the same feedback website used for Azure SQL and SQL Server: https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0
 
 ## Contributing
 
