@@ -61,11 +61,11 @@ https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0
 
 **Azure Function Bindings**
 
-Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/azure-functions-sql-extension
+- https://github.com/Azure/azure-functions-sql-extension
 
 **Data API builder**
 
-Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/data-api-builder
+- https://github.com/Azure/data-api-builder
 
 **PowerShell SQL Server Module** 
 
