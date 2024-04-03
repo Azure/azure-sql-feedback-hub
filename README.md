@@ -8,39 +8,56 @@ If you need *help* on using SQL Server or Azure SQL make sure to check out the [
 
 **SQL Server** 
 
-Use the [feedback.azure.com](
+- Use the [feedback.azure.com](
 https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0) website.
 
 **Azure SQL** 
 
-Just like for SQL Server, use the [feedback.azure.com](
+- Just like for SQL Server, use the [feedback.azure.com](
 https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0) website.
 
 **Documentation** 
 
-Documentation is all managed on GitHub. Read here how to provide feedback or how to contribute: https://learn.microsoft.com/sql/sql-server/sql-server-get-help#sql-server-documentation
+- Documentation is all managed on GitHub. Read here how to provide feedback or how to contribute: https://learn.microsoft.com/sql/sql-server/sql-server-get-help#sql-server-documentation
+
+**Azure Portal**
+
+- In portal “give feedback” button
 
 ## Tools
 
 **SQLCMD**
 
-Report ideas, feedback or issues via the GitHub repo: https://github.com/microsoft/go-sqlcmd
+- https://github.com/microsoft/go-sqlcmd
+
+**SqlPackage**
+
+- Same as DacFx: https://github.com/microsoft/dacfx 
 
 **Azure Data Studio**
 
-Report ideas, feedback or issues via the GitHub repo:
-https://github.com/microsoft/azuredatastudio
+-  https://github.com/microsoft/azuredatastudio
 
 **Visual Studio Code MSSQL Extension**
 
-Report ideas, feedback or issues via the GitHub repo:
-https://github.com/Microsoft/vscode-mssql
+- https://github.com/microsoft/vscode-mssql
 
 **SQL Server Management Studio**
 
-Report ideas using the same feedback website used for Azure SQL and SQL Server: https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0da0
+- https://aka.ms/sqlfeedback
 
-## Libraries
+**SQL Server Data Tools (SSDT)**
+
+- https://aka.ms/ssdt-feedback
+- https://developercommunity.visualstudio.com
+
+**GitHub action** 
+
+- https://github.com/azure/sql-action
+
+**DacFx** 
+
+- http://github.com/microsoft/dacfx
 
 **Azure Function Bindings**
 
@@ -50,6 +67,9 @@ Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/a
 
 Report ideas, feedback or issues via the GitHub repo: https://github.com/Azure/data-api-builder
 
+**PowerShell SQL Server Module** 
+
+- https://github.com/microsoft/SqlServerPSModule
 
 ## Contributing
 
