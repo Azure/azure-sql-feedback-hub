@@ -24,7 +24,7 @@ https://feedback.azure.com/d365community/forum/04fe6ee0-3b25-ec11-b6e6-000d3a4f0
 
 - In portal “give feedback” button
 
-## Tools
+## Tools & Libraries
 
 **SQLCMD**
 
